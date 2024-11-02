@@ -1,15 +1,4 @@
-<!-- Backend Badges -->
-<img src="https://img.shields.io/badge/Spring%20Boot-white?logo=springboot&logoColor=6DB33F" style="height: 25px; width: auto;">
-<img src="https://img.shields.io/badge/Maven-white?logo=apachemaven&logoColor=C71A36" style="height: 25px; width: auto;">
-<img src="https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=4479A1" style="height: 25px; width: auto;">
-
-<!-- Frontend Badges -->
-<img src="https://img.shields.io/badge/Angular%20CLI%2017.1.2-white?logo=angular&logoColor=DD0031" style="height: 25px; width: auto;">
-
-<!-- Data Badges -->
-<img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458" style="height: 25px; width: auto;">
-<img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=013243" style="height: 25px; width: auto;">
-<img src="https://img.shields.io/badge/GeoPandas-white?logo=geopandas&logoColor=3182BD" style="height: 25px; width: auto;">
+<img src="https://img.shields.io/badge/Spring%20Boot-white?logo=springboot&logoColor=6DB33F" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/Maven-white?logo=apachemaven&logoColor=C71A36" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=4479A1" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/Angular%20CLI%2017.1.2-white?logo=angular&logoColor=DD0031" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=013243" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/GeoPandas-white?logo=geopandas&logoColor=3182BD" style="height: 25px; width: auto;">
 
 
 
